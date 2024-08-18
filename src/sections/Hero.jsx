@@ -46,7 +46,7 @@ export const Hero = () => {
 
       <div className='relative flex-1 flex justify-center items-center xl:min-h-screen max-xl:py-40 bg-primary bg-hero bg-cover bg-center ml-100'>
         <img
-          src={bigShoeImg}
+          src={bigShoeImg}  
           alt='shoe colletion'
           width={610}
           height={502}
